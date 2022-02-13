@@ -1,1 +1,10 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Learn NextJS
+
+## My Notes
+This note is for my self
+
+### _app.js
+Global Page Component and Global Styling
+
+### _document.js
+Global settings hole of html document
